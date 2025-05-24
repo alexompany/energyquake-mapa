@@ -1,1 +1,1255 @@
-{"type": "FeatureCollection", "features": []}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "1",
+        "Evento": "igepn2025jwdf",
+        "Magnitud": "3.5",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-20 23:24:55",
+        "Latitud": "2.300° S",
+        "Longitud": "80.910° W",
+        "Profundidad (km)": "33.9",
+        "Región": "Near Coast of Ecuador",
+        "Ciudad más cercana": "Near Coast of Ecuador",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-21 04:24:55",
+        "Última actualización (TL)": "2025-05-21 06:09:29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.91,
+          -2.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "2",
+        "Evento": "igepn2025jvzw",
+        "Magnitud": "2.6",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-20 21:44:44",
+        "Latitud": "0.348° S",
+        "Longitud": "78.647° W",
+        "Profundidad (km)": "11.2",
+        "Región": "Ecuador - Pichincha",
+        "Ciudad más cercana": "a 19.82 km de Machachi, Pichincha",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-21 02:44:44",
+        "Última actualización (TL)": "2025-05-20 21:51:16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.647,
+          -0.348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "3",
+        "Evento": "igepn2025jvdm",
+        "Magnitud": "3.9",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-20 10:25:59",
+        "Latitud": "0.957° S",
+        "Longitud": "80.608° W",
+        "Profundidad (km)": "25.3",
+        "Región": "Ecuador - Manabi",
+        "Ciudad más cercana": "a 3.41 km de Jaramijo, Manabi",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-20 15:25:59",
+        "Última actualización (TL)": "2025-05-20 11:42:16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.608,
+          -0.957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "4",
+        "Evento": "igepn2025jvci",
+        "Magnitud": "4.0",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-20 09:52:15",
+        "Latitud": "0.943° S",
+        "Longitud": "80.641° W",
+        "Profundidad (km)": "22.7",
+        "Región": "Near Coast of Ecuador",
+        "Ciudad más cercana": "a 1.49 km de Jaramijo, Manabi",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-20 14:52:15",
+        "Última actualización (TL)": "2025-05-20 11:29:07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.641,
+          -0.943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "5",
+        "Evento": "igepn2025juqq",
+        "Magnitud": "3.3",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-20 03:56:20",
+        "Latitud": "0.097° N",
+        "Longitud": "80.244° W",
+        "Profundidad (km)": "34.0",
+        "Región": "Near Coast of Ecuador",
+        "Ciudad más cercana": "a 21.54 km de Pedernales, Manabi",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-20 08:56:20",
+        "Última actualización (TL)": "2025-05-20 14:28:44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.244,
+          0.097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "6",
+        "Evento": "igepn2025jrpl",
+        "Magnitud": "2.3",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-18 11:56:41",
+        "Latitud": "1.424° S",
+        "Longitud": "78.446° W",
+        "Profundidad (km)": "3.0",
+        "Región": "Ecuador - Tungurahua",
+        "Ciudad más cercana": "a 4.06 km de Banos, Tungurahua",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-18 16:56:41",
+        "Última actualización (TL)": "2025-05-18 12:03:14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.446,
+          -1.424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "7",
+        "Evento": "igepn2025jknz",
+        "Magnitud": "5.2",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-14 15:13:28",
+        "Latitud": "5.808° S",
+        "Longitud": "81.083° W",
+        "Profundidad (km)": "16.0",
+        "Región": "Near Coast of Northern Peru",
+        "Ciudad más cercana": "a 40.03 km de Sechura, Piura",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-14 20:13:28",
+        "Última actualización (TL)": "2025-05-14 16:16:03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.083,
+          -5.808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "8",
+        "Evento": "igepn2025jfmr",
+        "Magnitud": "2.4",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-11 20:53:54",
+        "Latitud": "0.021° N",
+        "Longitud": "77.605° W",
+        "Profundidad (km)": "13.7",
+        "Región": "Ecuador - Sucumbios",
+        "Ciudad más cercana": "a 60.27 km de Shushufindi, Sucumbios",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-12 01:53:54",
+        "Última actualización (TL)": "2025-05-11 20:58:22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.605,
+          0.021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "9",
+        "Evento": "igepn2025jezt",
+        "Magnitud": "4.0",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-11 14:22:29",
+        "Latitud": "1.130° N",
+        "Longitud": "79.845° W",
+        "Profundidad (km)": "20.0",
+        "Región": "Near Coast of Ecuador",
+        "Ciudad más cercana": "a 27.95 km de Esmeraldas, Esmeraldas",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-11 19:22:29",
+        "Última actualización (TL)": "2025-05-11 14:49:53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.845,
+          1.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "10",
+        "Evento": "igepn2025jexs",
+        "Magnitud": "3.8",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-11 13:20:51",
+        "Latitud": "2.817° S",
+        "Longitud": "78.526° W",
+        "Profundidad (km)": "12.6",
+        "Región": "Ecuador - Morona Santiago",
+        "Ciudad más cercana": "a 26.93 km de Paute, Azuay",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-11 18:20:51",
+        "Última actualización (TL)": "2025-05-11 14:35:49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.526,
+          -2.817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "11",
+        "Evento": "igepn2025jexn",
+        "Magnitud": "4.2",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-11 13:14:30",
+        "Latitud": "2.815° S",
+        "Longitud": "78.533° W",
+        "Profundidad (km)": "8.8",
+        "Región": "Ecuador - Morona Santiago",
+        "Ciudad más cercana": "a 26.2 km de Paute, Azuay",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-11 18:14:30",
+        "Última actualización (TL)": "2025-05-11 14:24:27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.533,
+          -2.815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "12",
+        "Evento": "igepn2025jdxw",
+        "Magnitud": "5.1",
+        "Tipo de Magnitud": "M",
+        "Tiempo Local": "2025-05-11 00:16:48",
+        "Latitud": "4.036° S",
+        "Longitud": "80.950° W",
+        "Profundidad (km)": "10.0",
+        "Región": "Peru-Ecuador Border Region",
+        "Ciudad más cercana": "Peru-Ecuador Border Region",
+        "Estado": "",
+        "Fecha (UTC)": "2025-05-11 05:16:48",
+        "Última actualización (TL)": "2025-05-11 00:25:32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.95,
+          -4.036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "13",
+        "Evento": "igepn2025jdti",
+        "Magnitud": "4.2",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-10 21:59:26",
+        "Latitud": "4.098° S",
+        "Longitud": "81.179° W",
+        "Profundidad (km)": "33.9",
+        "Región": "Near Coast of Northern Peru",
+        "Ciudad más cercana": "a 54.57 km de Talara, Piura",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-11 02:59:26",
+        "Última actualización (TL)": "2025-05-10 22:07:36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.179,
+          -4.098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "14",
+        "Evento": "igepn2025jdsv",
+        "Magnitud": "3.7",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-10 21:44:14",
+        "Latitud": "4.097° S",
+        "Longitud": "81.051° W",
+        "Profundidad (km)": "40.2",
+        "Región": "Near Coast of Northern Peru",
+        "Ciudad más cercana": "a 58.92 km de Talara, Piura",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-11 02:44:14",
+        "Última actualización (TL)": "2025-05-10 22:26:26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.051,
+          -4.097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "15",
+        "Evento": "igepn2025jdrq",
+        "Magnitud": "5.1",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-10 21:07:03",
+        "Latitud": "3.763° S",
+        "Longitud": "81.223° W",
+        "Profundidad (km)": "26.7",
+        "Región": "Near Coast of Northern Peru",
+        "Ciudad más cercana": "a 88.54 km de Tumbes, Tumbes",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-11 02:07:03",
+        "Última actualización (TL)": "2025-05-10 22:02:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.223,
+          -3.763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "16",
+        "Evento": "igepn2025jdrp",
+        "Magnitud": "6.2",
+        "Tipo de Magnitud": "M",
+        "Tiempo Local": "2025-05-10 21:06:13",
+        "Latitud": "7.383° S",
+        "Longitud": "83.447° W",
+        "Profundidad (km)": "136.0",
+        "Región": "Off Coast of Northern Peru",
+        "Ciudad más cercana": "a 353.58 km de Sechura, Piura",
+        "Estado": "Preliminar",
+        "Fecha (UTC)": "2025-05-11 02:06:13",
+        "Última actualización (TL)": "2025-05-10 21:08:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.447,
+          -7.383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "17",
+        "Evento": "igepn2025jdqj",
+        "Magnitud": "4.9",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-10 20:29:56",
+        "Latitud": "4.022° S",
+        "Longitud": "81.083° W",
+        "Profundidad (km)": "40.0",
+        "Región": "Near Coast of Northern Peru",
+        "Ciudad más cercana": "a 65.36 km de Talara, Piura",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-11 01:29:56",
+        "Última actualización (TL)": "2025-05-10 21:43:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.083,
+          -4.022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "18",
+        "Evento": "igepn2025jdbp",
+        "Magnitud": "3.6",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-10 13:02:26",
+        "Latitud": "1.739° S",
+        "Longitud": "77.878° W",
+        "Profundidad (km)": "169.2",
+        "Región": "Ecuador - Pastaza",
+        "Ciudad más cercana": "a 30.57 km de Puyo, Pastaza",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-10 18:02:26",
+        "Última actualización (TL)": "2025-05-10 14:40:34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.878,
+          -1.739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "19",
+        "Evento": "igepn2025jcqc",
+        "Magnitud": "4.8",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-10 07:12:51",
+        "Latitud": "2.610° S",
+        "Longitud": "79.645° W",
+        "Profundidad (km)": "25.5",
+        "Región": "Ecuador - Guayas",
+        "Ciudad más cercana": "Ecuador - Guayas",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-10 12:12:51",
+        "Última actualización (TL)": "2025-05-12 15:55:29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.645,
+          -2.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "20",
+        "Evento": "igepn2025iyxk",
+        "Magnitud": "5.6",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-08 06:22:40",
+        "Latitud": "3.830° S",
+        "Longitud": "80.789° W",
+        "Profundidad (km)": "28.0",
+        "Región": "Peru-Ecuador Border Region",
+        "Ciudad más cercana": "Peru-Ecuador Border Region",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-08 11:22:40",
+        "Última actualización (TL)": "2025-05-08 09:41:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.789,
+          -3.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "21",
+        "Evento": "igepn2025ivyp",
+        "Magnitud": "3.6",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-06 15:33:41",
+        "Latitud": "1.814° S",
+        "Longitud": "77.901° W",
+        "Profundidad (km)": "139.6",
+        "Región": "Ecuador - Morona Santiago",
+        "Ciudad más cercana": "a 37.31 km de Puyo, Pastaza",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-06 20:33:41",
+        "Última actualización (TL)": "2025-05-06 16:45:13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.901,
+          -1.814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "22",
+        "Evento": "igepn2025itgt",
+        "Magnitud": "4.3",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-05 04:17:18",
+        "Latitud": "2.955° S",
+        "Longitud": "80.024° W",
+        "Profundidad (km)": "64.2",
+        "Región": "Near Coast of Ecuador",
+        "Ciudad más cercana": "Near Coast of Ecuador",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-05 09:17:18",
+        "Última actualización (TL)": "2025-05-08 16:06:05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.024,
+          -2.955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "23",
+        "Evento": "igepn2025irkj",
+        "Magnitud": "3.2",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-04 03:51:14",
+        "Latitud": "1.765° S",
+        "Longitud": "77.405° W",
+        "Profundidad (km)": "20.0",
+        "Región": "Ecuador - Pastaza",
+        "Ciudad más cercana": "a 73.04 km de Puyo, Pastaza",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-04 08:51:14",
+        "Última actualización (TL)": "2025-05-04 03:59:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.405,
+          -1.765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "24",
+        "Evento": "igepn2025iqat",
+        "Magnitud": "4.5",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-05-03 09:50:11",
+        "Latitud": "0.653° S",
+        "Longitud": "77.956° W",
+        "Profundidad (km)": "14.1",
+        "Región": "Ecuador - Napo",
+        "Ciudad más cercana": "Ecuador - Napo",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-03 14:50:11",
+        "Última actualización (TL)": "2025-05-08 10:52:18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.956,
+          -0.653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "25",
+        "Evento": "igepn2025iofu",
+        "Magnitud": "4.5",
+        "Tipo de Magnitud": "M",
+        "Tiempo Local": "2025-05-02 10:06:55",
+        "Latitud": "3.716° S",
+        "Longitud": "77.463° W",
+        "Profundidad (km)": "49.9",
+        "Región": "Peru-Ecuador Border Region",
+        "Ciudad más cercana": "a 127.84 km de Gualaquiza, Morona Santiago",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-05-02 15:06:55",
+        "Última actualización (TL)": "2025-05-02 11:22:29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.463,
+          -3.716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "26",
+        "Evento": "igepn2025ihvc",
+        "Magnitud": "3.1",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-28 21:54:04",
+        "Latitud": "2.070° S",
+        "Longitud": "79.854° W",
+        "Profundidad (km)": "66.9",
+        "Región": "Ecuador - Guayas",
+        "Ciudad más cercana": "a 10.38 km de Simon Bolivar, Guayas",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-29 02:54:04",
+        "Última actualización (TL)": "2025-04-28 22:01:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.854,
+          -2.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "27",
+        "Evento": "igepn2025ihaw",
+        "Magnitud": "2.4",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-28 11:40:12",
+        "Latitud": "0.198° S",
+        "Longitud": "78.445° W",
+        "Profundidad (km)": "8.5",
+        "Región": "Ecuador - Pichincha",
+        "Ciudad más cercana": "Ecuador - Pichincha",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-28 16:40:12",
+        "Última actualización (TL)": "2025-05-19 15:04:22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.445,
+          -0.198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "28",
+        "Evento": "igepn2025igrt",
+        "Magnitud": "3.6",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-28 07:04:25",
+        "Latitud": "2.228° S",
+        "Longitud": "80.277° W",
+        "Profundidad (km)": "59.3",
+        "Región": "Ecuador - Santa Elena",
+        "Ciudad más cercana": "Ecuador - Santa Elena",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-28 12:04:25",
+        "Última actualización (TL)": "2025-04-28 10:22:24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.277,
+          -2.228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "29",
+        "Evento": "igepn2025igha",
+        "Magnitud": "3.3",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-28 01:38:49",
+        "Latitud": "1.340° S",
+        "Longitud": "80.544° W",
+        "Profundidad (km)": "31.2",
+        "Región": "Ecuador - Manabi",
+        "Ciudad más cercana": "Ecuador - Manabi",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-28 06:38:49",
+        "Última actualización (TL)": "2025-04-28 06:28:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.544,
+          -1.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "30",
+        "Evento": "igepn2025idig",
+        "Magnitud": "3.5",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-26 10:52:01",
+        "Latitud": "1.102° N",
+        "Longitud": "79.726° W",
+        "Profundidad (km)": "35.6",
+        "Región": "Near Coast of Ecuador",
+        "Ciudad más cercana": "Near Coast of Ecuador",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-26 15:52:01",
+        "Última actualización (TL)": "2025-05-13 12:53:13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.726,
+          1.102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "31",
+        "Evento": "igepn2025icid",
+        "Magnitud": "4.6",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-25 21:40:24",
+        "Latitud": "5.330° S",
+        "Longitud": "79.445° W",
+        "Profundidad (km)": "85.8",
+        "Región": "Northern Peru",
+        "Ciudad más cercana": "a 79.36 km de Olmos, Lambayeque",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-26 02:40:24",
+        "Última actualización (TL)": "2025-04-25 21:48:06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.445,
+          -5.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "32",
+        "Evento": "igepn2025ibfn",
+        "Magnitud": "4.2",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-25 07:09:51",
+        "Latitud": "1.965° S",
+        "Longitud": "79.782° W",
+        "Profundidad (km)": "86.3",
+        "Región": "Ecuador - Guayas",
+        "Ciudad más cercana": "Ecuador - Guayas",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-25 12:09:51",
+        "Última actualización (TL)": "2025-05-08 09:50:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.782,
+          -1.965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "33",
+        "Evento": "igepn2025ibeq",
+        "Magnitud": "6.1",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-25 06:44:49",
+        "Latitud": "1.077° N",
+        "Longitud": "79.702° W",
+        "Profundidad (km)": "30.1",
+        "Región": "Near Coast of Ecuador",
+        "Ciudad más cercana": "Near Coast of Ecuador",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-25 11:44:49",
+        "Última actualización (TL)": "2025-05-07 15:25:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.702,
+          1.077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "34",
+        "Evento": "igepn2025hxky",
+        "Magnitud": "4.6",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-23 05:24:26",
+        "Latitud": "4.700° S",
+        "Longitud": "81.601° W",
+        "Profundidad (km)": "18.0",
+        "Región": "Near Coast of Northern Peru",
+        "Ciudad más cercana": "a 39.22 km de Talara, Piura",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-23 10:24:26",
+        "Última actualización (TL)": "2025-04-23 05:33:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.601,
+          -4.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "35",
+        "Evento": "igepn2025hvfn",
+        "Magnitud": "3.4",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-22 00:23:37",
+        "Latitud": "0.953° S",
+        "Longitud": "78.215° W",
+        "Profundidad (km)": "12.8",
+        "Región": "Ecuador - Napo",
+        "Ciudad más cercana": "a 39.33 km de Latacunga, Cotopaxi",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-22 05:23:37",
+        "Última actualización (TL)": "2025-04-22 00:32:44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.215,
+          -0.953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "36",
+        "Evento": "igepn2025hurp",
+        "Magnitud": "4.7",
+        "Tipo de Magnitud": "M",
+        "Tiempo Local": "2025-04-21 17:23:25",
+        "Latitud": "5.355° S",
+        "Longitud": "76.659° W",
+        "Profundidad (km)": "10.0",
+        "Región": "Northern Peru",
+        "Ciudad más cercana": "a 82.41 km de Moyobamba, San Martin",
+        "Estado": "Preliminar",
+        "Fecha (UTC)": "2025-04-21 22:23:25",
+        "Última actualización (TL)": "2025-04-21 17:34:46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.659,
+          -5.355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "37",
+        "Evento": "igepn2025hqga",
+        "Magnitud": "6.1",
+        "Tipo de Magnitud": "M",
+        "Tiempo Local": "2025-04-19 06:56:33",
+        "Latitud": "7.584° S",
+        "Longitud": "75.559° W",
+        "Profundidad (km)": "5.0",
+        "Región": "Northern Peru",
+        "Ciudad más cercana": "a 65.89 km de Contamana, Loreto",
+        "Estado": "Preliminar",
+        "Fecha (UTC)": "2025-04-19 11:56:33",
+        "Última actualización (TL)": "2025-04-19 06:59:08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.559,
+          -7.584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "38",
+        "Evento": "igepn2025hpmz",
+        "Magnitud": "4.6",
+        "Tipo de Magnitud": "M",
+        "Tiempo Local": "2025-04-18 21:20:15",
+        "Latitud": "3.482° S",
+        "Longitud": "77.886° W",
+        "Profundidad (km)": "6.5",
+        "Región": "Peru-Ecuador Border Region",
+        "Ciudad más cercana": "a 76.64 km de Gualaquiza, Morona Santiago",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-19 02:20:15",
+        "Última actualización (TL)": "2025-04-18 21:31:21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.886,
+          -3.482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "39",
+        "Evento": "igepn2025hpmf",
+        "Magnitud": "3.5",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-18 20:57:01",
+        "Latitud": "2.495° S",
+        "Longitud": "79.178° W",
+        "Profundidad (km)": "89.0",
+        "Región": "Ecuador - Canar",
+        "Ciudad más cercana": "a 20.16 km de La Troncal, Canar",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-19 01:57:01",
+        "Última actualización (TL)": "2025-04-18 21:06:14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.178,
+          -2.495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "40",
+        "Evento": "igepn2025hlml",
+        "Magnitud": "3.5",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-16 16:32:30",
+        "Latitud": "0.211° N",
+        "Longitud": "79.311° W",
+        "Profundidad (km)": "49.7",
+        "Región": "Ecuador - Pichincha",
+        "Ciudad más cercana": "a 21.36 km de Quininde, Esmeraldas",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-16 21:32:30",
+        "Última actualización (TL)": "2025-04-16 16:39:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.311,
+          0.211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "41",
+        "Evento": "igepn2025hlcd",
+        "Magnitud": "3.4",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-16 11:19:00",
+        "Latitud": "2.531° S",
+        "Longitud": "79.809° W",
+        "Profundidad (km)": "6.4",
+        "Región": "Ecuador - Guayas",
+        "Ciudad más cercana": "a 25.72 km de Naranjal, Guayas",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-16 16:19:00",
+        "Última actualización (TL)": "2025-04-16 11:32:16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.809,
+          -2.531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "42",
+        "Evento": "igepn2025hjwa",
+        "Magnitud": "3.8",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-15 19:07:02",
+        "Latitud": "0.220° N",
+        "Longitud": "80.863° W",
+        "Profundidad (km)": "40.1",
+        "Región": "Near Coast of Ecuador",
+        "Ciudad más cercana": "Near Coast of Ecuador",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-16 00:07:02",
+        "Última actualización (TL)": "2025-04-15 21:40:36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.863,
+          0.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "43",
+        "Evento": "igepn2025hiap",
+        "Magnitud": "3.2",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-14 19:07:57",
+        "Latitud": "1.604° S",
+        "Longitud": "78.227° W",
+        "Profundidad (km)": "157.6",
+        "Región": "Ecuador - Morona Santiago",
+        "Ciudad más cercana": "a 27.87 km de Puyo, Pastaza",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-15 00:07:57",
+        "Última actualización (TL)": "2025-04-14 19:13:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.227,
+          -1.604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "44",
+        "Evento": "igepn2025hhzi",
+        "Magnitud": "3.7",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-14 18:29:42",
+        "Latitud": "2.821° S",
+        "Longitud": "81.477° W",
+        "Profundidad (km)": "17.6",
+        "Región": "Near Coast of Ecuador",
+        "Ciudad más cercana": "a 87.66 km de Salinas, Santa Elena",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-14 23:29:42",
+        "Última actualización (TL)": "2025-04-14 18:35:22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.477,
+          -2.821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "45",
+        "Evento": "igepn2025hhyy",
+        "Magnitud": "3.9",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-14 18:19:45",
+        "Latitud": "2.821° S",
+        "Longitud": "81.358° W",
+        "Profundidad (km)": "10.1",
+        "Región": "Near Coast of Ecuador",
+        "Ciudad más cercana": "a 79.61 km de Salinas, Santa Elena",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-14 23:19:45",
+        "Última actualización (TL)": "2025-04-14 18:25:47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.358,
+          -2.821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "46",
+        "Evento": "igepn2025hgbg",
+        "Magnitud": "3.7",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-13 17:11:22",
+        "Latitud": "1.510° S",
+        "Longitud": "78.176° W",
+        "Profundidad (km)": "164.8",
+        "Región": "Ecuador - Morona Santiago",
+        "Ciudad más cercana": "Ecuador - Morona Santiago",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-13 22:11:22",
+        "Última actualización (TL)": "2025-04-13 22:10:16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.176,
+          -1.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "47",
+        "Evento": "igepn2025hdcb",
+        "Magnitud": "3.9",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-12 02:11:22",
+        "Latitud": "0.170° S",
+        "Longitud": "78.639° W",
+        "Profundidad (km)": "6.4",
+        "Región": "VT",
+        "Ciudad más cercana": "VT",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-12 07:11:22",
+        "Última actualización (TL)": "2025-04-23 16:28:36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.639,
+          -0.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "48",
+        "Evento": "igepn2025hbtr",
+        "Magnitud": "3.2",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-11 08:50:00",
+        "Latitud": "0.534° N",
+        "Longitud": "78.631° W",
+        "Profundidad (km)": "18.9",
+        "Región": "Ecuador - Esmeraldas",
+        "Ciudad más cercana": "a 47.85 km de Cotacachi, Imbabura",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-11 13:50:00",
+        "Última actualización (TL)": "2025-04-11 09:05:32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.631,
+          0.534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "49",
+        "Evento": "igepn2025guir",
+        "Magnitud": "4.5",
+        "Tipo de Magnitud": "M",
+        "Tiempo Local": "2025-04-07 07:17:21",
+        "Latitud": "4.993° S",
+        "Longitud": "80.546° W",
+        "Profundidad (km)": "83.1",
+        "Región": "Peru-Ecuador Border Region",
+        "Ciudad más cercana": "a 18.27 km de Sullana, Piura",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-07 12:17:21",
+        "Última actualización (TL)": "2025-04-07 07:23:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.546,
+          -4.993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Nº": "50",
+        "Evento": "igepn2025gsmc",
+        "Magnitud": "3.7",
+        "Tipo de Magnitud": "MLv",
+        "Tiempo Local": "2025-04-06 06:46:12",
+        "Latitud": "0.744° S",
+        "Longitud": "77.622° W",
+        "Profundidad (km)": "15.5",
+        "Región": "Ecuador - Napo",
+        "Ciudad más cercana": "Ecuador - Napo",
+        "Estado": "Revisado",
+        "Fecha (UTC)": "2025-04-06 11:46:12",
+        "Última actualización (TL)": "2025-04-14 12:09:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.622,
+          -0.744
+        ]
+      }
+    }
+  ]
+}
