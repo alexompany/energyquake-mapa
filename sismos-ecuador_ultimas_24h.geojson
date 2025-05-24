@@ -1,4 +1,16 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "magnitud": 4.1,
+        "lugar": "Manabí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.5, -1.0]
+      }
+    }
+  ]
 }
