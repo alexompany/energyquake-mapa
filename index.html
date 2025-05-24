@@ -1,31 +1,65 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-  <meta charset="utf-8" />
-  <title>Mapa ENERGY QUAKE (GeoJSON local)</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <meta charset="UTF-8" />
+  <title>Mapa ENERGY QUAKE</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
-    body { margin: 0; padding: 0; }
-    #map { height: 100vh; width: 100vw; }
+    #map { height: 100vh; }
+    .legend {
+      background: white;
+      padding: 10px;
+      font-size: 14px;
+      border-radius: 5px;
+    }
+    .legend i {
+      width: 14px;
+      height: 14px;
+      float: left;
+      margin-right: 5px;
+      border-radius: 50%;
+    }
   </style>
 </head>
 <body>
   <div id="map"></div>
 
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script>
-    var map = L.map('map').setView([0, -78], 5);
+    const map = L.map('map').setView([-1.8, -78.0], 6);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '© OpenStreetMap contributors'
+      attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
 
-    // Cargar GeoJSON desde archivo local en el mismo repositorio
-    fetch('sismos-ecuador.geojson')
+    fetch('sismos-ecuador_ultimas_24h.geojson')
       .then(res => res.json())
       .then(data => {
-        L.geoJSON(data).addTo(map);
+        L.geoJSON(data, {
+          pointToLayer: (feature, latlng) => {
+            const mag = parseFloat(feature.properties.Magnitud);
+            let color = 'green';
+            if (mag >= 5.5) color = 'purple';
+            else if (mag >= 4.8) color = 'red';
+            else if (mag >= 4.0) color = 'yellow';
+
+            return L.circleMarker(latlng, {
+              radius: 6,
+              fillColor: color,
+              color: '#000',
+              weight: 1,
+              opacity: 1,
+              fillOpacity: 0.8
+            }).bindPopup(`
+              <b>${feature.properties['Ciudad más cercana']}</b><br>
+              Magnitud: ${mag}<br>
+              Profundidad: ${feature.properties['Profundidad (km)']} km<br>
+              Fecha: ${feature.properties['Fecha (UTC)']}<br>
+              Coord: ${latlng.lat.toFixed(2)}, ${latlng.lng.toFixed(2)}
+            `);
+          }
+        }).addTo(map);
       });
   </script>
 </body>
